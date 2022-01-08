@@ -1,8 +1,8 @@
 # The Hexagonal Game Of Life
 
-This is a project for Hello World 2016, Purdue's Freshman Hackathon. This is a simulation of a hexagonal modification to John Horton Conway's game of life.
+Amusuem forked this from the Purdue 2016 hackathon.
 
-Website: https://arunarjunakani.github.io/HexagonalGameOfLife/
+This is a project for Hello World 2016, Purdue's Freshman Hackathon. This is a simulation of a hexagonal modification to John Horton Conway's game of life.
 
 ## Built With
 
